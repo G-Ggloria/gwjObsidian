@@ -13,28 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todolist/todolist.md",
+                "file": "去条带/LRTD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todolist"
-            }
-          }
-        ]
-      },
-      {
-        "id": "7486adb63129f31f",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "f7a212bf3c98ccd9",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "title": "LRTD"
             }
           }
         ]
@@ -110,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todolist/todolist.md",
+                "file": "去条带/LRTD.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "todolist 的反向链接列表"
+              "title": "LRTD 的反向链接列表"
             }
           },
           {
@@ -129,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "todolist/todolist.md",
+                "file": "去条带/LRTD.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "todolist 的出链列表"
+              "title": "LRTD 的出链列表"
             }
           },
           {
@@ -158,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "todolist/todolist.md",
+                "file": "去条带/LRTD.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "todolist 的大纲"
+              "title": "LRTD 的大纲"
             }
           }
         ]
@@ -181,28 +165,29 @@
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "c63bab4138df6a85",
   "lastOpenFiles": [
-    "欢迎.md",
-    "denoising",
-    "todolist/todolist.md",
-    "BRC-NE/code.md",
-    "卡尔曼滤波/卡尔曼滤波原理.md",
-    "张量环/张量环分解原理.md",
     "张量环/TRLRF.md",
+    "去噪+分类/去噪+分类联合.md",
+    "去条带/LRTD.md",
+    "范数/L2范数.md",
+    "卡尔曼滤波/卡尔曼滤波原理.md",
+    "欢迎.md",
+    "todolist/todolist.md",
+    "denoising",
+    "BRC-NE/code.md",
+    "张量环/张量环分解原理.md",
     "张量环",
     "异常检测/异常检测.md",
     "异常检测",
-    "去噪+分类/去噪+分类联合.md",
     "去噪+分类",
-    "去条带/LRTD.md",
     "去条带/未命名",
     "去条带",
     "卡尔曼滤波",
-    "范数/L2范数.md",
     "范数",
     "Vault",
     "todolist"
