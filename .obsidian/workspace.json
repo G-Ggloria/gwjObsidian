@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "d035e9ab7d61bcda",
+            "id": "073ef6b27a61447f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -185,12 +185,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d035e9ab7d61bcda",
+  "active": "073ef6b27a61447f",
   "lastOpenFiles": [
     "todolist/todolist.md",
     "conflict-files-obsidian-git.md",
-    "欢迎_BACKUP_735.md",
     "欢迎.md",
+    "欢迎_BACKUP_735.md",
     "欢迎_BACKUP_793.md",
     "欢迎_BASE_793.md",
     "欢迎_REMOTE_793.md",
