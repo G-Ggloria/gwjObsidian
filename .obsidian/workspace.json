@@ -25,12 +25,14 @@
             "id": "1fea4deba2f0ad81",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.9.12"
+                "file": "欢迎.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "版本说明 1.9.12"
+              "icon": "lucide-file",
+              "title": "欢迎"
             }
           }
         ],
@@ -185,18 +187,18 @@
   },
   "active": "1fea4deba2f0ad81",
   "lastOpenFiles": [
-    "去条带/LRTD.md",
+    "异常检测/异常检测.md",
     "张量环/TRLRF.md",
+    "欢迎.md",
+    "去条带/LRTD.md",
     "去噪+分类/去噪+分类联合.md",
     "范数/L2范数.md",
     "卡尔曼滤波/卡尔曼滤波原理.md",
-    "欢迎.md",
     "todolist/todolist.md",
     "denoising",
     "BRC-NE/code.md",
     "张量环/张量环分解原理.md",
     "张量环",
-    "异常检测/异常检测.md",
     "异常检测",
     "去噪+分类",
     "去条带/未命名",
