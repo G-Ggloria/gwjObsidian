@@ -8,31 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "c63bab4138df6a85",
+            "id": "94532983dac2680a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "欢迎.md",
+                "file": "todolist/todolist.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欢迎"
+              "title": "todolist"
             }
           },
           {
-            "id": "1fea4deba2f0ad81",
+            "id": "d035e9ab7d61bcda",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "欢迎.md",
+                "file": "conflict-files-obsidian-git.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "欢迎"
+              "title": "conflict-files-obsidian-git"
             }
           }
         ],
@@ -185,10 +185,19 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1fea4deba2f0ad81",
+  "active": "d035e9ab7d61bcda",
   "lastOpenFiles": [
     "todolist/todolist.md",
+    "conflict-files-obsidian-git.md",
+    "欢迎_BACKUP_735.md",
     "欢迎.md",
+    "欢迎_BACKUP_793.md",
+    "欢迎_BASE_793.md",
+    "欢迎_REMOTE_793.md",
+    "欢迎_LOCAL_793.md",
+    "欢迎_BASE_735.md",
+    "欢迎_REMOTE_735.md",
+    "欢迎_LOCAL_735.md",
     "异常检测/异常检测.md",
     "张量环/TRLRF.md",
     "去条带/LRTD.md",
