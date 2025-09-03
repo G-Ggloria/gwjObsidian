@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sstptv.md",
+                "file": "sstptv/sstptv代码.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sstptv"
+              "title": "sstptv代码"
             }
           }
         ]
@@ -172,8 +172,10 @@
   },
   "active": "94532983dac2680a",
   "lastOpenFiles": [
+    "sstptv/sstptv论文.md",
+    "sstptv/sstptv代码.md",
+    "sstptv",
     "todolist/todolist.md",
-    "sstptv.md",
     "conflict-files-obsidian-git.md",
     "欢迎.md",
     "欢迎_BACKUP_735.md",
@@ -200,7 +202,6 @@
     "去条带",
     "卡尔曼滤波",
     "范数",
-    "Vault",
-    "todolist"
+    "Vault"
   ]
 }
