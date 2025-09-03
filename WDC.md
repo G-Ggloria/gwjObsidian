@@ -10,3 +10,7 @@ performing Figure ...
 Rhsi : mpsnr= 31.914966 
 Rhsi : mssim= 0.918889 
 Rhsi : ergas= 92.436151 
+单距离块匹配
+Rhsi : mpsnr= 31.424013 
+Rhsi : mssim= 0.897192 
+Rhsi : ergas= 96.494841 
