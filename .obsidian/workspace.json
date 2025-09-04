@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WDC.md",
+                "file": "sstptv/sstptv论文.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "WDC"
+              "title": "sstptv论文"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "20885c09c325ad6e",
@@ -109,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "欢迎.md",
+                "file": "sstptv/sstptv论文.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +120,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "欢迎 的反向链接列表"
+              "title": "sstptv论文 的反向链接列表"
             }
           },
           {
@@ -187,8 +188,8 @@
   },
   "active": "105a29d78b24aabe",
   "lastOpenFiles": [
-    "todolist/todolist.md",
     "WDC.md",
+    "todolist/todolist.md",
     "BRC-NE/code.md",
     "sstptv/sstptv代码.md",
     "未命名.canvas",
