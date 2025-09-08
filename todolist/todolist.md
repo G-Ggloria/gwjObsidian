@@ -39,3 +39,6 @@ Cub2Patch 后加kmean
 审稿 9号
 学术汇报ppt
 工作进展
+
+看NLTR和BRC- NE如何使用块匹配的？
+NLTR ： TR分解如何和块匹配搭配使用？
