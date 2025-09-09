@@ -42,3 +42,8 @@ Cub2Patch 后加kmean
 
 看NLTR和BRC- NE如何使用块匹配的？
 NLTR ： TR分解如何和块匹配搭配使用？
+
+
+把看nltr如何把TR分解嵌入块匹配
+把brc对噪声建模的方式应用到此方法
+把NLSSR的稀疏表示块匹配方法应用到此方法
