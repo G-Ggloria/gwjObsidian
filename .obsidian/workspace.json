@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "todolist/todolist.md",
+                "file": "范数/L2范数.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "todolist"
+              "title": "L2范数"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "20885c09c325ad6e",
@@ -110,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "todolist/todolist.md",
+                "file": "WDC.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "todolist 的反向链接列表"
+              "title": "WDC 的反向链接列表"
             }
           },
           {
@@ -186,11 +185,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "105a29d78b24aabe",
+  "active": "492a3d516f837a73",
   "lastOpenFiles": [
-    "sstptv/sstptv论文.md",
     "WDC.md",
     "todolist/todolist.md",
+    "sstptv/sstptv论文.md",
     "BRC-NE/code.md",
     "sstptv/sstptv代码.md",
     "未命名.canvas",
