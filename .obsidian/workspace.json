@@ -107,8 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "20885c09c325ad6e",
@@ -200,12 +199,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73ee1d9b9067d9b9",
+  "active": "492a3d516f837a73",
   "lastOpenFiles": [
+    "未命名",
     "FallHyDe2024.md",
     "WDC.md",
     "NTRC.md",
-    "未命名",
     "sstptv/sstptv论文.md",
     "sstptv/sstptv代码.md",
     "BRC-NE/code.md",
