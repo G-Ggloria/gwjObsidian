@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "5fcbe9501e371b9f",
+        "id": "1351e18b942d70e6",
         "type": "tabs",
         "children": [
           {
-            "id": "94532983dac2680a",
+            "id": "54ec284c9dd886dd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "BRC-NE/code.md",
+                "file": "副主编回复.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "code"
-            }
-          },
-          {
-            "id": "105a29d78b24aabe",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "WDC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "WDC"
-            }
-          },
-          {
-            "id": "73ee1d9b9067d9b9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "弱纹理区域噪声估计/弱纹理区域噪声估计.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "弱纹理区域噪声估计"
+              "title": "副主编回复"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -107,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "20885c09c325ad6e",
@@ -124,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "WDC.md",
+                "file": "欢迎.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -134,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "WDC 的反向链接列表"
+              "title": "欢迎 的反向链接列表"
             }
           },
           {
@@ -200,39 +170,30 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "73ee1d9b9067d9b9",
+  "active": "54ec284c9dd886dd",
   "lastOpenFiles": [
-    "FallHyDe2024.md",
+    "副主编回复.md",
+    "欢迎.md",
     "弱纹理区域噪声估计/弱纹理区域噪声估计.md",
     "弱纹理区域噪声估计",
-    "WDC.md",
-    "NTRC.md",
     "sstptv/sstptv论文.md",
     "sstptv/sstptv代码.md",
-    "BRC-NE/code.md",
-    "张量环/TRLRF.md",
-    "张量环/张量环分解原理.md",
-    "异常检测/异常检测.md",
-    "去条带/LRTD.md",
-    "去噪+分类/去噪+分类联合.md",
-    "卡尔曼滤波/卡尔曼滤波原理.md",
-    "范数/L2范数.md",
-    "todolist/todolist.md",
-    "未命名.canvas",
-    "2025-09-03.md",
     "sstptv",
+    "WDC.md",
+    "NTRC.md",
+    "FallHyDe2024.md",
     "conflict-files-obsidian-git.md",
-    "欢迎.md",
-    "欢迎_BACKUP_735.md",
-    "欢迎_BACKUP_793.md",
-    "欢迎_BASE_793.md",
-    "欢迎_REMOTE_793.md",
-    "欢迎_LOCAL_793.md",
-    "欢迎_BASE_735.md",
-    "欢迎_REMOTE_735.md",
-    "欢迎_LOCAL_735.md",
+    "todolist/todolist.md",
+    "去条带/LRTD.md",
+    "张量环/TRLRF.md",
+    "去噪+分类/去噪+分类联合.md",
+    "范数/L2范数.md",
+    "卡尔曼滤波/卡尔曼滤波原理.md",
     "denoising",
+    "BRC-NE/code.md",
+    "张量环/张量环分解原理.md",
     "张量环",
+    "异常检测/异常检测.md",
     "异常检测",
     "去噪+分类",
     "去条带/未命名",
